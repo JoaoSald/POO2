@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Joao\Documents\ufcspa\terceiroSemestre\poo II\programas\.metadata\.plugins\org.eclipse.jdt.core
+3703472708.index
+2753080515.index
